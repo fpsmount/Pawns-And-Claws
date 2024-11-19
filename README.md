@@ -67,9 +67,3 @@ Este repositório contém a documentação e a demonstração do jogo criado na 
 [ Dimitri   ] Documentação revisada para clareza e rigor técnico.  
 [ Dimitri   ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.  
 [ Pedro     ] Avaliação da colaboração da equipe e cumprimento dos prazos.
-
-- **Fase 6**: Apresentação e Conclusão do Projeto [ ] 
-
-[ nome ] Apresentação do projeto preparada com informações claras e objetivas.  
-[ nome ] Conclusões do projeto destacando os resultados e aprendizados.  
-[ nome ] Discussão sobre o projeto e respostas a perguntas da audiência.
