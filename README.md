@@ -18,6 +18,18 @@ Este repositório contém a documentação e a demonstração do jogo criado na 
 ## Link da Demonstração do Jogo
 [Demonstração Paws And Claws](https://youtu.be/a0t7GQrV3v8)
 
+## ⚙️ Tecnologias Utilizadas
+ **Unity**: É um motor para desenvolvimento exlusivo para jogos.
+ **Visual Studio Code**: Scripts feitos em C# para movimentação, coletáveis, tempo e fim do jogo.
+
+ ## 🧠 Identificação Da Complexidade do Jogo
+ **Tempo**: O jogo possui um cronômetro para desafiar o jogador à bater o seu próprio recorde.
+ **Coletáveis**: Paws and Claws tem uma mecânica de coletáveis que, pegando todos, libera um final secreto.
+
+ ## 🧠 Regras do Jogo
+ **Movimentação**: O gatinho se movimenta com as teclas: W (cima), S (baixo), A (esquerda), D (direita) e o Espaço (pular).
+ **Regras**: O jogador não pode encostar nos inimigos e nem cair das plataformas.
+
 ## 📝 CheckList
 
 - **Fase 1**: Análise [ ] 
