@@ -15,6 +15,9 @@ Este repositório contém a documentação e a demonstração do jogo criado na 
     - **Inimigos**: Os inimigos são gosmas que ficam andando de um lado para o outro.
     - **Coletáveis**: O jogador pode coletar estrelas que ficam espalhadas pelo mapa.
 
+## Link da Demonstração do Jogo
+[Demonstração Paws And Claws](https://youtu.be/a0t7GQrV3v8)
+
 ## 📝 CheckList
 
 - **Fase 1**: Análise [ ] 
