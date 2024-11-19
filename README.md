@@ -4,7 +4,7 @@
 Este repositório contém a documentação e a demonstração do jogo criado na disciplina de Computabilidade e Complexidade de Algoritmos na universidade UDF - Centro Universitário do Distrito Federal, durante o 6° semestre.
 
 ## 👥 Participantes
-- 👩‍🏫 Profesora Kadidja Valéria
+- 👩‍🏫 Professora Kadidja Valéria
 - 👤 Dimitri Monteiro | RGM: 29601380
 - 👤 Gabrielly Silva | RGM: 30511640
 - 👤 Pedro Fellipe | RGM: 30074924
