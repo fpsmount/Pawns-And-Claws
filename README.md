@@ -1,7 +1,7 @@
 # 😺 Paws And Claws
 
 ## 📜 Descrição
-Este repositório contém a documentação e a demonstração do jogo criado na disicplina de Computabilidade e Complexidade de Algoritmos na universidade UDF - Centro Universitário do Distrito Federal, durante o 6° semestre.
+Este repositório contém a documentação e a demonstração do jogo criado na disciplina de Computabilidade e Complexidade de Algoritmos na universidade UDF - Centro Universitário do Distrito Federal, durante o 6° semestre.
 
 ## 👥 Participantes
 - 👩‍🏫 Profesora Kadidja Valéria
