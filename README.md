@@ -14,6 +14,10 @@ Este repositório contém a documentação e a demonstração do jogo criado na 
 - 🔑 **Características**:
     - **Inimigos**: Os inimigos são gosmas que ficam andando de um lado para o outro.
     - **Coletáveis**: O jogador pode coletar estrelas que ficam espalhadas pelo mapa.
+      
+  **Foto do Piteco da Vida Real**
+![IMG-20241119-WA0032](https://github.com/user-attachments/assets/d1e6a0c9-a577-49e8-b442-629f755dc1c8)
+
 
 ## Link da Demonstração do Jogo
 [Demonstração Paws And Claws](https://youtu.be/a0t7GQrV3v8)
